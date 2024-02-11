@@ -44,6 +44,7 @@
 }
 
 .row input {
+  max-width: 600px;
   flex: 1;
   border: none;
   outline: none;
